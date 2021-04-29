@@ -7,9 +7,6 @@
 木青的小小站
 </h2>
 
-* [我在 GitHub 上的开源项目](http://www.muqing.cloud:-1/github)
-
-* [我的介绍](http://www.muqing.cloud:-1/articles/2020/05/09/1589003975349.html)
 
 
 
